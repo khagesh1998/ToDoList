@@ -2,8 +2,8 @@
 
 ## Output
 
-APK - outputs/app-release.apk
-images - images/
+1. APK - outputs/app-release.apk
+2. images - images/
 
 ## Features
 
